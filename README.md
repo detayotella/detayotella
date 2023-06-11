@@ -11,9 +11,11 @@ My Name is Adetayo Tella. I am a data scientist who uses machine learning and da
 
 --------------
 
+
 My latest writings are:
  * [Google Chrome user guide for mobile](https://adetayotella.hashnode.dev/google-chrome-user-guide-for-mobile)
  
 - See more of my technical articles on [Hashnode](https://adetayotella.hashnode.dev/)
+
 
 [![Adetayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=detayotella)](https://github.com/detayotella)
