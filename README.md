@@ -17,5 +17,3 @@ My latest writings are:
  
 - See more of my technical articles on [Hashnode](https://adetayotella.hashnode.dev/)
 
-
-[![Adetayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=detayotella)](https://github.com/detayotella)
