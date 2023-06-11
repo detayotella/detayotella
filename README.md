@@ -1,13 +1,19 @@
-Hi there 👋
+### Hi there 👋
 
-My name is Tella Adetayo. I am a Data Scientist and Analyst
+My Name is Adetayo Tella. I am a data scientist who uses machine learning and data science skills to build products that leverage data to solve problems.
 
-- 🔭 I’m currently working on a lot of exciting projects on Data Analyses, Data Science and Machine Learning
-- 💻 My Stacks are: Python, SQL and Julia
-- 🌱 I’m currently learning about Deep Learning and Computer Vision
-- 👯 I’m looking to collaborate on awesome projects 
-- 🤔 I’m looking for roles in Data Analyst/Science and Machine Learning.
-- 💬 Ask me about Data Science, Analysis and Machine Learning. 
-- 📫 How to reach me: Twitter:@detayotella 
+**Strong Languages**: Python, Julia, SQL and Rust 
+  
+- 👯 I am seeking to partner on exciting data science and machine learning projects.
+- 💬 Ask me about Machine Learning, Deep Learning and Data Science.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 🤔
+- 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/adetayotella).
+
+--------------
+
+My latest writings are:
+ * [Google Chrome user guide for mobile](https://adetayotella.hashnode.dev/google-chrome-user-guide-for-mobile)
+ 
+- See more of my technical articles on [Hashnode](https://adetayotella.hashnode.dev/)
+
+[![Adetayo's GitHub stats](https://github-readme-stats.vercel.app/api?username=detayotella)](https://github.com/detayotella)
