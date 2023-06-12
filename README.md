@@ -2,7 +2,7 @@
 
 My Name is Adetayo Tella. I am a data scientist who uses machine learning and data science skills to build products that leverage data to solve problems.
 
-**Strong Languages**: Python, Julia, SQL and Rust 
+**Strong Languages**: Python, Julia, SQL and Go
   
 - 👯 I am seeking to partner on exciting data science and machine learning projects.
 - 💬 Ask me about Machine Learning, Deep Learning and Data Science.
