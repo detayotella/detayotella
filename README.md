@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-My Name is Adetayo Tella. I am a data scientist who uses machine learning and data science skills to build products that leverage data to solve problems.
+My Name is Adetayo Tella. I am a Software Engineer & Machine Learning Practitioner leveraging machine learning techniques to develop intelligent models and software solutions that tackle intricate problems. Adept at harnessing the power of data and algorithms to drive innovation and enhance decision-making processes. Passionate about exploring the boundless possibilities of artificial intelligence and its practical applications across diverse domains.
 
-**Strong Languages**: Python, Julia, SQL and Rust
+**Strong Languages**: Python, JavaScript, SQL,  and Rust
   
-- 👯 I am seeking to partner on exciting data science and machine learning projects.
-- 💬 Ask me about Machine Learning, Deep Learning and Data Science.
+- 👯 I want to partner on exciting software engineering and machine learning projects.
+- 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Data Science.
 - 😄 Pronouns: He/Him
 - 📫 Connect with me: [Linkedin](https://www.linkedin.com/in/adetayotella).
 
