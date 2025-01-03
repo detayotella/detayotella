@@ -10,8 +10,6 @@ I'm Adetayo Tella, a Software Engineer and Machine Learning Engineer who bridges
 - Software Development: Backend Development | API Design | System Architecture
 
 I'm passionate about pushing the boundaries of what's possible at the intersection of software engineering and artificial intelligence, constantly exploring innovative ways to deploy ML solutions that drive real business impact.
-
-Would you like me to adjust any part of this to better reflect your experience or focus areas?
   
 - 👯 I want to partner on exciting software engineering and machine learning projects.
 - 💬 Ask me about Software Engineering, Machine Learning, Deep Learning and Data Science.
